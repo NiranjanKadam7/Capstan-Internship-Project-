@@ -1,6 +1,6 @@
 
 
-# **Capstan-Internship-Project**
+# **Capstan Internship Project**
 I started this project as Internship Project in iracle analytics.This is business analysis project and aim is to understand the data learn insights and develop a business model.Data analysis, visualization, App and Dashboard all are created using R langauge.
 
 
