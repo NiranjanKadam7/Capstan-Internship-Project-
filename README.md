@@ -32,7 +32,7 @@ Dataset link - https://github.com/NiranjanKadam7/Capstan-Internship-Project-/tre
 ## Files
 
 ## Visualization
- - Visualization App
+ - Visualization Web Application
 
   ![Screenshot (468)](https://github.com/NiranjanKadam7/pancard-tempering-detection/assets/107809278/7150f647-a9cf-4bb2-9b77-a5648a1f011e)
 
